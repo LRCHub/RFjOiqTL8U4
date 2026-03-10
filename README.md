@@ -1,0 +1,31 @@
+# Green Day – Are We the Waiting / St. Jimmy
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:16.97] Starry nights, city lights coming down over me
+[00:25.66] Skyscrapers, stargazers in my head
+[00:42.66] 
+[00:34.77] Are we, we are, are we, we are the waiting unknown
+[00:42.77] This dirty town was burning down in my dreams
+[01:05.27] 
+[00:51.53] Lost and found, city bound in my dreams
+[01:11.03] 
+[00:58.50] And screaming, ("Are we, we are, are we, we are the waiting")
+[01:07.13] And screaming, ("Are we, we are, are we, we are the waiting")
+[01:37.63] 
+[01:17.00] Forget me nots, second thoughts live in isolation
+[01:41.50] 
+[01:25.82] Heads or tails, fairytales in my mind
+[01:44.32] 
+[01:34.83] Are we, we are, are we, we are the waiting unknown
+[01:42.84] The rage and love, the story of my life
+[02:02.34] 
+[01:51.44] The Jesus of Suburbia is a lie
+[02:06.44] 
+[01:58.61] And screaming, ("Are we, we are, are we, we are the waiting")
+[02:07.26] And screaming, ("Are we, we are, are we, we are the waiting unknown")
+[02:14.58] (Are we, we are, are we, we are the waiting)
+[02:24.37] And screaming, ("Are we, we are, are we, we are the waiting unknown")
+[02:31.79] (Are we, we are, are we, we are the waiting)
+```
