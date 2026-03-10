@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Are We the Waiting / St. Jimmy",
+  "base_artist": "Green Day",
+  "createdAt": "2026-03-10T03:38:40.773046Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Are We The Waiting",
+      "artist": "Greenday",
+      "has_synced": true,
+      "path": "select/01_Are_We_The_Waiting_Greenday.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Are We the Waiting",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/02_Are_We_the_Waiting_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Are We the Waiting",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/03_Are_We_the_Waiting_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Are We the Waiting",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/04_Are_We_the_Waiting_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Are We The Waiting",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/05_Are_We_The_Waiting_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Are We the Waiting",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/06_Are_We_the_Waiting_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Are We the Waiting",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/07_Are_We_the_Waiting_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Are We the Waiting",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/08_Are_We_the_Waiting_Green_Day.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Are We The Waiting",
+      "artist": "Green Day",
+      "has_synced": false,
+      "path": "select/pl_01_Are_We_The_Waiting_Green_Day.txt"
+    }
+  ]
+}
